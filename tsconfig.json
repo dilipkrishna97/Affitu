@@ -7,7 +7,9 @@
         "src/*"
       ],
       "tests": ["tests/*"],
-      "@components/*": ["src/components/*"]
+      "@components/*": ["src/components/*"],
+      "ROOTDIR/*":["./*"],
+      "include": ["src", ".json"]
     }
   }
 }

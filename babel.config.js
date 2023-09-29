@@ -10,6 +10,7 @@ module.exports = {
           tests: ['./tests/'],
           '@components': '/src/components',
           '@src': './src',
+          ROOTDIR: './',
         },
       },
     ],
