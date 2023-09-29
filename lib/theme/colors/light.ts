@@ -2,7 +2,7 @@ export default {
   black: '#000000',
   white: '#FFFFFF',
   jacksonsPurple: '#3C3E75',
-  DarkSlateBlue: '#3C3D79',
+  navyBlue: '#3C3D79',
   cornFlowerBlue: '#4794FF',
   periwinkle: '#C2C8E4',
   royalBlue: '#394DE2',
